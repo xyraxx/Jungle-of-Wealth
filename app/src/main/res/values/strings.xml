@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jungle of Wealth</string>
+    <string name="receive_notifications">Receive Notifications</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="enable_ads">Enable ADs</string>
+    <string name="save">Save</string>
+    <string name="app_settings">App Settings</string>
+</resources>
